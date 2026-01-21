@@ -1,95 +1,184 @@
+<!-- DARK HERO BANNER -->
 <p align="center">
-  <img
-    src="assets/profile.jpg"
-    alt="Het Prajapati"
-    width="160"
-    height="160"
-    style="border-radius: 100%; object-fit: cover;"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=180&section=header&text=Het%20Prajapati&fontSize=40&fontColor=ffffff&desc=Flutter%20Developer%20•%203%2B%20Years%20Experience&descAlignY=70"/>
 </p>
 
 
-<h1 align="center">Hi, I'm Het Prajapati 👋</h1>
-<p align="center">
-  Flutter Developer • 3+ Years Experience • Product & Architecture Mindset
-</p>
 
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/het-prajapati-79813620a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dudeitsmehet/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:prajapatihet2611@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://hetprajapati.carrd.co" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
+<!-- ABOUT -->
+<table>
+<tr>
+<td>
+
 ## 👨‍💻 About Me
 
-I’m a **Flutter Developer with 3+ years of hands-on experience** building production-ready mobile applications for real users and real businesses.  
-I focus on **clean architecture, maintainable codebases, and smooth user experiences** that scale well over time.
+I’m a **Flutter Developer with 3+ years of hands-on experience** building production-ready mobile applications for real users and real businesses.
+
+I focus on **clean architecture, maintainable codebases, and predictable application behavior** that scales well over time.
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- JOURNEY -->
+<table>
+<tr>
+<td>
 
 ## 🚀 My Journey
 
-I began with UI-focused Flutter apps, but quickly realized that **architecture and structure** are what separate demos from real products.  
-Over time, I developed a strong interest in clean architecture, state management, and backend-driven app flows.
+I began my Flutter journey working primarily on UI-heavy applications.  
+As projects grew, I realized that **architecture, structure, and state management** are what separate demos from real products.
+
+Over time, I naturally moved toward:
+- Clean Architecture
+- Modular codebases
+- Backend-driven app flows
+- Reusable UI systems
 
 Today, I approach Flutter development with a **product mindset**, not just a coding mindset.
 
+</td>
+</tr>
+</table>
+
 ---
+
+<!-- THOUGHTS -->
+<table>
+<tr>
+<td>
 
 ## 💡 My Thoughts on Flutter & Dart
 
 **Flutter**  
-Flutter excels when consistency, structure, and design systems are taken seriously.  
-I believe Flutter performs best when paired with **disciplined architecture and predictable state management**.
+Flutter is powerful because it enforces consistency.  
+When combined with good architecture and disciplined state management, it allows teams to move fast **without sacrificing quality**.
 
 **Dart**  
-Dart’s type safety, async model, and readability make it ideal for long-term, scalable applications.  
-Clean Dart code is easy to refactor, debug, and maintain — which matters in production.
+Dart is underrated. Its type safety, async model, and readability make it ideal for large, long-term applications.  
+Clean Dart code is easy to refactor, debug, and maintain.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Core Strengths
+<!-- STRENGTHS -->
+<table>
+<tr>
+<td>
 
-✔ Flutter & Dart fundamentals  
+## 💪 Core Strengths
+
+✔ Strong Flutter & Dart fundamentals  
 ✔ Clean Architecture & modular design  
-✔ BLoC / Cubit / Riverpod  
+✔ State management (BLoC, Cubit, Riverpod)  
 ✔ Firebase (Auth, Firestore, FCM)  
-✔ REST APIs & error handling  
-✔ Reusable UI systems  
-✔ Debugging & performance tuning  
-✔ Production-focused development mindset  
+✔ REST API integration & error handling  
+✔ Reusable UI components & design systems  
+✔ Debugging, refactoring & performance optimization  
+✔ Production-first development mindset  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+<!-- TECH STACK -->
+<table>
+<tr>
+<td>
 
-**Mobile:** Flutter (Android & iOS), Dart  
-**Architecture:** Clean Architecture, MVVM, Repository Pattern  
-**State:** BLoC, Cubit, Riverpod, Provider  
-**Backend:** Firebase, REST APIs  
-**Payments:** Razorpay  
-**Tools:** Git, GitLab CI/CD, Figma → Flutter  
+## 🛠 Full Tech Stack
+
+### 📱 Mobile
+- Flutter (Android & iOS)
+- Dart
+
+### 🧱 Architecture & Patterns
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- Dependency Injection (get_it, injectable)
+
+### 🔁 State Management
+- BLoC / Cubit
+- Riverpod
+- Provider
+
+### 🔗 Backend & Integrations
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging
+- REST APIs (Dio, HTTP)
+- Razorpay / Payment Gateways
+
+### 🎨 UI & UX
+- Custom Design Systems
+- Responsive Layouts (ScreenUtil)
+- Animations & Transitions
+- Light / Dark Theme Architecture
+- Figma → Flutter implementation
+
+### 🧪 Testing & Quality
+- Unit Testing
+- Widget Testing
+- Linting & Code Formatting
+- Crash & Error Handling
+
+### ⚙️ Tools & Workflow
+- Git & GitLab
+- GitLab CI/CD
+- Environment-based builds
+- Agile / Iterative Development
+
+</td>
+</tr>
+</table>
 
 ---
+
+<!-- CONTACT -->
+<table>
+<tr>
+<td>
 
 ## 📬 Let’s Connect
 
 📍 India  
-💼 Open to Full-time Opportunities  
+💼 Open to Freelance & Full-time Opportunities  
 
-> I enjoy building software that is clean, structured, and built to last.
+> I enjoy building software that is clean, structured, scalable, and built to last.
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ *Thanks for visiting my profile — feel free to connect or reach out.*
+<p align="center">
+⭐ Thanks for visiting my profile — feel free to connect or reach out.
+</p>
