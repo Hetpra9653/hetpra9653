@@ -1,12 +1,13 @@
 <p align="center">
-  <img 
-    src="assets/profile.jpg" 
-    width="160" 
-    height="160" 
-    style="border-radius: 50%;" 
+  <img
+    src="assets/profile.jpg"
     alt="Het Prajapati"
+    width="160"
+    height="160"
+    style="border-radius: 100%; object-fit: cover;"
   />
 </p>
+
 
 <h1 align="center">Hi, I'm Het Prajapati 👋</h1>
 <p align="center">
