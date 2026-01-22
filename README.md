@@ -169,7 +169,7 @@ Clean Dart code is easy to refactor, debug, and maintain.
 ## 📬 Let’s Connect
 
 📍 India  
-💼 Open to Freelance & Full-time Opportunities  
+💼 Open to Full-time Opportunities  
 
 > I enjoy building software that is clean, structured, scalable, and built to last.
 
